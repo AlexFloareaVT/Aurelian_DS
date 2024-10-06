@@ -1,4 +1,4 @@
-# AURELIAN SILVA
+# Aurelian Silva
 
 ![Avatar](/image.png)
 
