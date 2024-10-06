@@ -1,6 +1,6 @@
 # Aurelian Silva
 
-![Avatar](/image.png)
+![Avatar](/Image.png)
 
 Aurelian is a proof-of-concept vocal, with only 2 minutes and 29 seconds of data in it's dataset.
 
