@@ -11,7 +11,7 @@ Aurelian is a proof-of-concept vocal, with only 2 minutes and 29 seconds of data
 - Age: 25
 - Optimal Range: F2 - A5
 
-## DiffSinger Voicebank
+## Diffsinger Voicebank
 A young sounding masculine vocal, with a heavy British accent. It is capable of singing in the following languages:
 
 English (EN)
