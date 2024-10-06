@@ -31,6 +31,7 @@ All languages (currently) require language tags to be prefixed onto phonemes if 
 Example of phoneme tags - The word "test" would be [en/t en/eh en/s en/t]
 
 In English this model DOES support using [tr] [dr] [dx] and [ax] but they will need to be added manually either by editing the phonemes directly or through phoneme hints (or by using the upcoming DIFFS-EN+ phonemizer).
+
 - Type: Diffsinger
 - Languages: en, ja, fr, es, th
 
