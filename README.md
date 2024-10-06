@@ -34,4 +34,4 @@ In English this model DOES support using [tr] [dr] [dx] and [ax] but they will n
 - Languages: en, ja, fr, es, th
 
 ## Videos
-[![Watch the video](https://www.youtube.com/watch?v=-wt2q_jmIz4)
+[![Watch the video](https://i9.ytimg.com/vi_webp/-wt2q_jmIz4/maxresdefault.webp?v=66e97ccc&sqp=CNz8h7gG&rs=AOn4CLCaaxH4q3ifwrWMWcMFxsFVyqcbmg)](https://www.youtube.com/watch?v=-wt2q_jmIz4)
