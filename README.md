@@ -1,33 +1,37 @@
-# Singer Template
-[English](README.md) | [Русский](README.ru.md)
+# AURELIAN SILVA
 
 ![Avatar](/image.png)
 
-Good example: [Awata Weak](https://github.com/hhskt/Awata_Weak)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Aurelian is a proof-of-concept vocal, with only 2 minutes and 29 seconds of data in it's dataset.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Male
+- Height: 1.7m
+- Weight: 600 kg
+- Age: 25
 
-## Groups
-- [testgroup](https://github.com/ViSingers/group-template)
+## DiffSinger
+A young sounding masculine vocal, with a heavy British accent. It is capable of singing in the following languages:
 
-## First test bank
-Test description 1
+English (EN)
+Japanese (JP)
+Spanish (ES)
+French (FR)
+Thai (TH)
+
+French requires the Millefeuille Phonemizer to be installed which can be found at the following site - https://utaufrance.com/comment-utiliser-diffsinger/
+
+Thai works from the main ds-dict.yaml file so you will need to use the default DIFFS Phonemizer. It is not recommended that you edit the ds-dict.yaml for this as it is quite big and can cause your notepad application to slow down (or in my case, make NotePad++ not open at all due to it trying to open this file every time)
+
+English, Spanish and Japanese all work without any issues in their respective phonemizers.
+
+All languages (currently) require language tags to be prefixed onto phonemes if directly editing them, or using phoneme hints in brackets using the tags in brackets above (in lowercase).
+
+Example of phoneme tags - The word "test" would be [en/t en/eh en/s en/t]
+
+In English this model DOES support using [tr] [dr] [dx] and [ax] but they will need to be added manually either by editing the phonemes directly or through phoneme hints (or by using the upcoming DIFFS-EN+ phonemizer).
 - Type: Diffsinger
-- Languages: Russian, Japanese
-
-## Second test bank
-Test description 2
-- Type: UTAU
-- Languages: English
+- Languages: en, ja, fr, es, th
 
 ## Videos
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+[![Watch the video](https://youtu.be/-wt2q_jmIz4?si=cYYqo_QqQ9rnrgQ3)
